@@ -1,0 +1,22 @@
+html {
+    color: white;
+    background-color: black;
+}
+
+abbr {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+a {
+    color: rgb(253, 148, 148);
+    text-decoration: none;
+}
+
+h1 {
+    color: yellow
+}
+
+h2 {
+    color: orange
+}
