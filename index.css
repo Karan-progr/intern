@@ -1,22 +1,21 @@
 html {
-    color: white;
-    background-color: black;
+    color: black;
 }
 
-abbr {
+.title {
     text-decoration: none;
     border-bottom: none;
 }
 
 a {
-    color: rgb(253, 148, 148);
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 
 h1 {
-    color: yellow
+    color: Black
 }
 
 h2 {
-    color: orange
+    color: rgb(0, 0, 0)
 }
